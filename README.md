@@ -1,4 +1,4 @@
-# FaceGuard
+# FaceGuard - You'll never be forgotten
 Facial Data Capture and Training along with validation
 
 This software utilizes computer vision techniques to capture facial images, train a facial recognition model, and subsequently recognize users based on their faces. The software is implemented in Python using the OpenCV library.
