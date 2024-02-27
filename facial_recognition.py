@@ -33,7 +33,7 @@ def capture_and_train(user_name):
     if not os.path.exists(user_path):
         os.makedirs(user_path)
     
-    # Capture 10 images of user
+    # Capture 500 images of user
     camera = cv2.VideoCapture(0)
     count = 0
     while count < 500:
